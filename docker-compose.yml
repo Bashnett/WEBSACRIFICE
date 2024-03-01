@@ -1,0 +1,26 @@
+version: "3.9"
+
+services:
+  mongo_db:
+    image: anish36/websacrifice:mongodb
+    container_name: db_container
+    restart: always
+    volumes:
+      - mongodb:/data/db
+
+  api:
+    image: anish36/websacrifice:api
+    container_name: api_container
+    ports:
+      - "4000:3000"
+    environment:
+      PORT: 3000
+      MONGODB_URI: mongodb://mongo_db:27017
+      DB_NAME: my_db
+      Name: websacrifice
+    depends_on:
+      - mongo_db
+
+volumes:
+  mongodb: {}
+
