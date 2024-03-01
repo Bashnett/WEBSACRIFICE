@@ -45,5 +45,5 @@ To use this project, you'll need to have Docker and Docker Compose installed on 
 
 6. Create a new Pull Request
 
-## License
+
 
