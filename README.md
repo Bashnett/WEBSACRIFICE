@@ -7,7 +7,7 @@ Short description or introduction to your project.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
