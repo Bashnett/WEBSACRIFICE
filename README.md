@@ -42,17 +42,8 @@ To use this project, you'll need to have Docker and Docker Compose installed on 
 
     Once the services are up and running, you can access your application by navigating to `http://localhost:4000` in your web browser.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
 6. Create a new Pull Request
 
 ## License
 
-This project is licensed under the [License Name or URL](LICENSE).
