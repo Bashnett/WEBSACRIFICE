@@ -23,7 +23,7 @@ To use this project, you'll need to have Docker and Docker Compose installed on 
     First, download the `docker-compose.yml` file from this repository. You can do this either by cloning the repository or by directly downloading the file.
 
     ```bash
-    curl -O https://raw.githubusercontent.com/your_username/your_repository/main/docker-compose.yml
+    curl -O https://github.com/Bashnett/WEBSACRIFICE/blob/main/docker-compose.yml
     ```
 
     Replace `your_username` and `your_repository` with your actual GitHub username and repository name.
