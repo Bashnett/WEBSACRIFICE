@@ -1,6 +1,6 @@
 ![Project Image](https://github.com/Bashnett/BASHHH/blob/main/output-onlinepngtools.png)
 
-Short description or introduction to your project.
+This is Intentional Vulnerable Web-Application features labs for vulnerabilities like XSS, CSRF, SQLi, NOSQLi and Broken Authentication Vulnerabilities. 
 
 ## Table of Contents
 
