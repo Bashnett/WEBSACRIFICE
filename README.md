@@ -6,7 +6,6 @@ This Intentional Vulnerable Web-Application features labs for vulnerabilities li
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 
 ## Installation
